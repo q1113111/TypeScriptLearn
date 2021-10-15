@@ -4,3 +4,15 @@ let a:number
 
 a=10
 a='hello'  //會報錯 不能傳入字串
+
+let b:string
+
+b='hello'
+b=123
+
+// 直接聲明
+const c:boolean=true
+// 直接給值會自行判斷型別
+let d= false
+d=true
+d=123
