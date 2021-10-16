@@ -16,3 +16,9 @@ const c:boolean=true
 let d= false
 d=true
 d=123
+
+// 函式型別 :後面表示 返回值 型別
+const sum = (a:number,b:number):number=>{
+    return a+b
+}
+const result = sum(123,'456',789)
