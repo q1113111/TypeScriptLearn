@@ -1,0 +1,10 @@
+{
+    // **任意目錄 *任意文件
+    "include": [
+        "./src/**/*"
+    ],
+    // 不需要被編譯的檔案 默认值：[“node_modules”, “bower_components”, “jspm_packages”]
+    "exclude": [
+        "./src/img/**/*"
+    ]
+}
