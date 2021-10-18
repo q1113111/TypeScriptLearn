@@ -3,4 +3,9 @@
         "source.fixAll": true
     },
     "vetur.format.defaultFormatter.js": "vscode-typescript",
+    "emmet.triggerExpansionOnTab": true,
+    "emmet.includeLanguages": {
+        "vue-html": "html",
+        "vue": "html"
+    },
 }
