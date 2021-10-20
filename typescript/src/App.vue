@@ -3,6 +3,9 @@
     <router-link to="/13">
       13类
     </router-link> |
+    <router-link to="/14">
+      14構造函數
+    </router-link> |
     <router-link to="/test">
       test
     </router-link>
