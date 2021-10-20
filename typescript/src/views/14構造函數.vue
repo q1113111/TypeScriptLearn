@@ -1,16 +1,16 @@
 <script setup lang="ts">
 class Person {
-     name:string
-     age:number
+    name:string
+    age:number
 
-     constructor (name:string, age:number) {
-       this.name = name
-       this.age = age
-     }
+    constructor (name:string, age:number) {
+      this.name = name
+      this.age = age
+    }
 
-     bark () {
-       console.log(this.name)
-     }
+    bark () {
+      console.log(this.name)
+    }
 }
 const per = new Person('小白', 4)
 const per2 = new Person('大白', 14)
