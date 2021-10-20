@@ -1,8 +1,13 @@
 <template>
   <div id="nav">
-    <router-link to="/13">13类</router-link> |
+    <router-link to="/13">
+      13类
+    </router-link> |
+    <router-link to="/test">
+      test
+    </router-link>
   </div>
-  <router-view/>
+  <router-view />
 </template>
 
 <style lang="scss">
