@@ -6,8 +6,8 @@
     <router-link to="/14">
       14構造函數
     </router-link> |
-    <router-link to="/test">
-      test
+    <router-link to="/15">
+      15繼承
     </router-link>
   </div>
   <router-view />

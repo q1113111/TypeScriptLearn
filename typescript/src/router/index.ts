@@ -12,9 +12,9 @@ const routes: Array<RouteRecordRaw> = [
     component: () => import('../views/14構造函數.vue')
   },
   {
-    path: '/test',
-    name: 'test',
-    component: () => import('../views/test.vue')
+    path: '/15',
+    name: '15',
+    component: () => import('../views/15繼承.vue')
   }
 ]
 
