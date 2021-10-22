@@ -8,6 +8,12 @@
     </router-link> |
     <router-link to="/15">
       15繼承
+    </router-link> |
+    <router-link to="/17">
+      17抽象class
+    </router-link> |
+    <router-link to="/18">
+      18接口
     </router-link>
   </div>
   <router-view />

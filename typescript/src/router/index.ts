@@ -15,6 +15,16 @@ const routes: Array<RouteRecordRaw> = [
     path: '/15',
     name: '15',
     component: () => import('../views/15繼承.vue')
+  },
+  {
+    path: '/17',
+    name: '17',
+    component: () => import('../views/17抽象class.vue')
+  },
+  {
+    path: '/18',
+    name: '18',
+    component: () => import('../views/18接口.vue')
   }
 ]
 
